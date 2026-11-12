@@ -7,7 +7,23 @@ A Python-based data cleaning, analysis, and reporting application built with Str
 Smart Excel Analyzer Pro helps users explore Excel and CSV datasets, identify common data quality issues, perform optional cleaning operations, and generate downloadable reports.
 
 This project is a portfolio demonstration of Python data analysis and reporting automation.
+## Live Demo
 
+Try the application online:
+
+https://smart-excel-analyzer-pro.onrender.com
+
+## GitHub Repository
+
+https://github.com/iamnomid/Smart-Excel-Analyzer-Pro
+
+## How to Test
+
+1. Open the live demo.
+2. Upload a sample Excel or CSV file.
+3. Enable the data cleaning options.
+4. Explore the sales dashboard.
+5. Download the cleaned Excel file and PDF report.
 ## Features
 
 - Upload Excel (.xlsx) and CSV files
